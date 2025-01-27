@@ -10,8 +10,8 @@ I have committed to completing this challenge to enhance my Python programming s
 
 ## 🗓️ Timeline
 
-- **Start Date:** _[Insert your start date here]_
-- **End Date:** _[Insert your expected end date here]_
+- **Start Date:** _[27-01-2025]_
+- **End Date:** _[27-02-2025]_
 - **Daily Commitment:** Spend at least 1 hour coding every day.
 
 ## 📖 What You'll Find Here
@@ -24,12 +24,12 @@ This repository includes:
 
 ## 📝 Progress Log
 
-| Day | Topic/Project                               | Description                                         | Status       |
-| --- | ------------------------------------------- | --------------------------------------------------- | ------------ |
-| 1   | Band Name Generator                         | A simple project to practice basic Python concepts. | ✅ Completed |
-| 2   | Tip Calculator                              | Building a tool to calculate tips in Python.        | ✅ Completed |
-| 3   | Treasure Island                             | Creating a text-based adventure game.               | ✅ Completed |
-| ... | _More to come as the challenge progresses!_ |                                                     | 🔄 Ongoing   |
+| Day | Topic/Project           | Description                                         | Status       |
+| --- | ----------------------- | --------------------------------------------------- | ------------ |
+| 1   | Band Name Generator     | A simple project to practice basic Python concepts. | ✅ Completed |
+| 2   | Tip Calculator          | Building a tool to calculate tips in Python.        | ✅ Completed |
+| 3   | Treasure Island         | Creating a text-based adventure game.               | ✅ Completed |
+| 4   | Rock Paper Scissor Game | Created a rock-paper-scissor game treasure setup    | ✅ Completed |
 
 ## 🔧 Tools & Technologies
 
@@ -55,7 +55,7 @@ If you'd like to support me or join the challenge:
 
 - **Fork this repository** and start your own journey!
 - Share your progress with the hashtag `#100DaysOfCode`.
-- Follow me on _[Insert your social media or GitHub link]_ to stay updated.
+- Follow me on _[instagram(_ayush743),github(Ayush743)]_ to stay updated.
 
 ## 📌 Acknowledgments
 
