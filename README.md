@@ -30,7 +30,9 @@ This repository includes:
 | 2   | Tip Calculator            | Building a tool to calculate tips in Python.            | ✅ Completed |
 | 3   | Treasure Island           | Creating a text-based adventure game.                   | ✅ Completed |
 | 4   | Rock Paper Scissor Game   | Created a rock-paper-scissor game treasure setup        | ✅ Completed |
-| 4   | Random Password Generator | Created a Random Password Generator using loops concept | ✅ Completed |
+| 5   | Random Password Generator | Created a Random Password Generator using loops concept | ✅ Completed |
+| 5   | Robot Maze project        | Created functions in Reeborg World to help the robot    | ✅ Completed |
+|     | reach its destination.    |
 
 ## 🔧 Tools & Technologies
 
