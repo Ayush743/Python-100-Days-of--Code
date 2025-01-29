@@ -33,6 +33,7 @@ This repository includes:
 | 5   | Random Password Generator | Created a Random Password Generator using loops concept                             | ✅ Completed |
 | 6   | Robot Maze project        | Created functions in Reeborg World to help the robot to reach its destination       | ✅ Completed |
 | 7   | The Hangman Game          | Created a word guessing game which reduces life of hangman for each incorrect guess | ✅ Completed |
+| 8   | Caesar Cipher             | Created a text encoder and decoder based on number of shifts                        | ✅ Completed |
 
 ## 🔧 Tools & Technologies
 
