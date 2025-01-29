@@ -34,6 +34,7 @@ This repository includes:
 | 6   | Robot Maze project        | Created functions in Reeborg World to help the robot to reach its destination       | ✅ Completed |
 | 7   | The Hangman Game          | Created a word guessing game which reduces life of hangman for each incorrect guess | ✅ Completed |
 | 8   | Caesar Cipher             | Created a text encoder and decoder based on number of shifts                        | ✅ Completed |
+| 9   | Auction Bid Calculator    | Created a Auction Bid Calculator that returns the winner with maximum bid           | ✅ Completed |
 
 ## 🔧 Tools & Technologies
 
