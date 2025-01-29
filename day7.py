@@ -93,6 +93,7 @@ print()
 while(i<len(word)+6):
     letter=input("Enter a letter : ").lower()
     if(letter not in word):
+        print("You chose the wrong letter,you loose one life")
         s+=1
     print(states[s])
    
