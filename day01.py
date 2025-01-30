@@ -23,10 +23,18 @@ while True:
 
 num_chr=len(input("Enter your Name?"))
 print("your name has "+str(num_chr)+" characters")
+
 #----------------Sum of digits---------------------->
+
 num=input("Enter the number : ")
 s=0
 for i in num:
     s+=int(i)
 print(s)
-print(int(num[0])+int(num[1]))
+# print(int(num[0])+int(num[1]))
+ #-----------------factorial---------------------->
+x= int(input("Enter a number : "))
+f=1
+for i in range(1,x+1):
+    f*=i
+print(f)
