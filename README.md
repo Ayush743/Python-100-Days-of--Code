@@ -36,6 +36,7 @@ This repository includes:
 | 8   | Caesar Cipher             | Created a text encoder and decoder based on number of shifts                              | ✅ Completed |
 | 9   | Auction Bid Calculator    | Created a Auction Bid Calculator that returns the winner with maximum bid                 | ✅ Completed |
 | 10  | arithmetic Calculator     | Created a Arithmetic Calculator that can continue the new operation with previous results | ✅ Completed |
+| 11  | A Blackjack card game     | Created a Blackjack card game using Lists, Randomization, Game Logic                      | ✅ Completed |
 
 ## 🔧 Tools & Technologies
 
