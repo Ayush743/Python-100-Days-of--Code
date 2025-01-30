@@ -1,4 +1,4 @@
-
+print("------------------------------𝓭𝓪𝔂 3---------------------------------------------->")
 import random
 words_list=[
     'fennel', 'vinegar', 'strawberry', 'quinoa', 'zucchini', 'kiwi', 
