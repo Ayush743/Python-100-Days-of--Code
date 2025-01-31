@@ -37,6 +37,8 @@ This repository includes:
 | 9   | Auction Bid Calculator    | Created a Auction Bid Calculator that returns the winner with maximum bid                 | ✅ Completed |
 | 10  | arithmetic Calculator     | Created a Arithmetic Calculator that can continue the new operation with previous results | ✅ Completed |
 | 11  | A Blackjack card game     | Created a Blackjack card game using Lists, Randomization, Game Logic                      | ✅ Completed |
+| 12  | Number Guessing Game      | A game where the user guesses a randomly generated number.                                | ✅ Completed |
+| 13  | Number Guessing Game      | Finding and fixing common Python errors.                                                  | ✅ Completed |
 
 ## 🔧 Tools & Technologies
 
