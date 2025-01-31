@@ -39,6 +39,7 @@ This repository includes:
 | 11  | A Blackjack card game     | Created a Blackjack card game using Lists, Randomization, Game Logic                      | ✅ Completed |
 | 12  | Number Guessing Game      | A game where the user guesses a randomly generated number.                                | ✅ Completed |
 | 13  | Debugging                 | Finding and fixing common Python errors.                                                  | ✅ Completed |
+| 14  | Higher Lower Game         | A game where users guess which entity has a higher value using Data Comparison, Functions | ✅ Completed |
 
 ## 🔧 Tools & Technologies
 
