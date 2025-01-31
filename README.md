@@ -38,7 +38,7 @@ This repository includes:
 | 10  | arithmetic Calculator     | Created a Arithmetic Calculator that can continue the new operation with previous results | ✅ Completed |
 | 11  | A Blackjack card game     | Created a Blackjack card game using Lists, Randomization, Game Logic                      | ✅ Completed |
 | 12  | Number Guessing Game      | A game where the user guesses a randomly generated number.                                | ✅ Completed |
-| 13  | Number Guessing Game      | Finding and fixing common Python errors.                                                  | ✅ Completed |
+| 13  | Debugging                 | Finding and fixing common Python errors.                                                  | ✅ Completed |
 
 ## 🔧 Tools & Technologies
 
