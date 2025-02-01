@@ -24,23 +24,24 @@ This repository includes:
 
 ## 📝 Progress Log
 
-| Day | Topic/Project             | Description                                                                               | Status       |
-| --- | ------------------------- | ----------------------------------------------------------------------------------------- | ------------ |
-| 1   | Band Name Generator       | A simple project to practice basic Python concepts.                                       | ✅ Completed |
-| 2   | Tip Calculator            | Building a tool to calculate tips in Python.                                              | ✅ Completed |
-| 3   | Treasure Island           | Creating a text-based adventure game.                                                     | ✅ Completed |
-| 4   | Rock Paper Scissor Game   | Created a rock-paper-scissor game treasure setup                                          | ✅ Completed |
-| 5   | Random Password Generator | Created a Random Password Generator using loops concept                                   | ✅ Completed |
-| 6   | Robot Maze project        | Created functions in Reeborg World to help the robot to reach its destination             | ✅ Completed |
-| 7   | The Hangman Game          | Created a word guessing game which reduces life of hangman for each incorrect guess       | ✅ Completed |
-| 8   | Caesar Cipher             | Created a text encoder and decoder based on number of shifts                              | ✅ Completed |
-| 9   | Auction Bid Calculator    | Created a Auction Bid Calculator that returns the winner with maximum bid                 | ✅ Completed |
-| 10  | arithmetic Calculator     | Created a Arithmetic Calculator that can continue the new operation with previous results | ✅ Completed |
-| 11  | A Blackjack card game     | Created a Blackjack card game using Lists, Randomization, Game Logic                      | ✅ Completed |
-| 12  | Number Guessing Game      | A game where the user guesses a randomly generated number.                                | ✅ Completed |
-| 13  | Debugging                 | Finding and fixing common Python errors.                                                  | ✅ Completed |
-| 14  | Higher Lower Game         | A game where users guess which entity has a higher value using Data Comparison, Functions | ✅ Completed |
-| 15  | Coffee Machine Simulator  | Simulates a coffee machine with user interactions.built using Dictionaries and Functions  | ✅ Completed |
+| Day | Topic/Project               | Description                                                                               | Status       |
+| --- | --------------------------- | ----------------------------------------------------------------------------------------- | ------------ |
+| 1   | Band Name Generator         | A simple project to practice basic Python concepts.                                       | ✅ Completed |
+| 2   | Tip Calculator              | Building a tool to calculate tips in Python.                                              | ✅ Completed |
+| 3   | Treasure Island             | Creating a text-based adventure game.                                                     | ✅ Completed |
+| 4   | Rock Paper Scissor Game     | Created a rock-paper-scissor game treasure setup                                          | ✅ Completed |
+| 5   | Random Password Generator   | Created a Random Password Generator using loops concept                                   | ✅ Completed |
+| 6   | Robot Maze project          | Created functions in Reeborg World to help the robot to reach its destination             | ✅ Completed |
+| 7   | The Hangman Game            | Created a word guessing game which reduces life of hangman for each incorrect guess       | ✅ Completed |
+| 8   | Caesar Cipher               | Created a text encoder and decoder based on number of shifts                              | ✅ Completed |
+| 9   | Auction Bid Calculator      | Created a Auction Bid Calculator that returns the winner with maximum bid                 | ✅ Completed |
+| 10  | arithmetic Calculator       | Created a Arithmetic Calculator that can continue the new operation with previous results | ✅ Completed |
+| 11  | A Blackjack card game       | Created a Blackjack card game using Lists, Randomization, Game Logic                      | ✅ Completed |
+| 12  | Number Guessing Game        | A game where the user guesses a randomly generated number.                                | ✅ Completed |
+| 13  | Debugging                   | Finding and fixing common Python errors.                                                  | ✅ Completed |
+| 14  | Higher Lower Game           | A game where users guess which entity has a higher value using Data Comparison, Functions | ✅ Completed |
+| 15  | Coffee Machine Simulator    | Simulates a coffee machine with user interactions.built using Dictionaries and Functions  | ✅ Completed |
+| 16  | Object-Oriented Programming | Learning and implementing OOP concepts in Python.                                         | ✅ Completed |
 
 ## 🔧 Tools & Technologies
 
