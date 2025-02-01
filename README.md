@@ -40,6 +40,7 @@ This repository includes:
 | 12  | Number Guessing Game      | A game where the user guesses a randomly generated number.                                | ✅ Completed |
 | 13  | Debugging                 | Finding and fixing common Python errors.                                                  | ✅ Completed |
 | 14  | Higher Lower Game         | A game where users guess which entity has a higher value using Data Comparison, Functions | ✅ Completed |
+| 15  | Coffee Machine Simulator  | Simulates a coffee machine with user interactions.built using Dictionaries and Functions  | ✅ Completed |
 
 ## 🔧 Tools & Technologies
 
